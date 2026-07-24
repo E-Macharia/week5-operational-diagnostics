@@ -49,4 +49,4 @@ pip install pandas numpy matplotlib seaborn scipy reportlab
 ### Steps
 
 1. **Jupyter Notebook:** Open `week5_diagnostics_analysis.ipynb` in VS Code or Jupyter Lab. All cells have been pre-run, showing the text summaries, data tables, and five custom plots.
-2. **Executive Report:** Open `Week5_Diagnostics_Report_Antigravity.pdf` to read the concise executive summary with embedded charts.
+2. **Executive Report:** Open `Week5_Diagnostics_Report.pdf` to read the concise executive summary with embedded charts.
